@@ -1,4 +1,4 @@
-pragma solidity ^0.4.8;
+pragma solidity ^0.6.2  /// old version4.8;
 contract CryptoPunksMarket {
 
     // You can use this hash to verify the image file containing all the punks
